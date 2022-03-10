@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biann28
+- 👋 Hi, I’m biann
 
 
 <!---
